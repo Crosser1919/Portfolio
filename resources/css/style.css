@@ -132,6 +132,7 @@ section:nth-child(even) {
     filter: brightness(80%);
     opacity: 0.86;
     transform: scale(0.85)translateY(-10px);
+    cursor:pointer;
 }
 
 #about-links i:hover span {
